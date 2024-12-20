@@ -1,0 +1,22 @@
+.main {
+  background-image: url("/images/bg.png");
+  background-size: 125% 65%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+/*
+.textArea {
+  height: 15rem;
+  width: 17rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-size: 1.2rem;
+  font-family: "Roboto", sans-serif;
+  background-color: red;
+  height: 12rem;
+  z-index: 10;
+}
+*/
